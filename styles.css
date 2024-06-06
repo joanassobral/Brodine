@@ -56,7 +56,7 @@ html,body{
         }
             .removed{
                 text-decoration: line-through;
-                text-decoration-thickness: 25px;
+                text-decoration-thickness: 10px;
             }
 
             .link_line{
